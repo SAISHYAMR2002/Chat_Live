@@ -4,7 +4,7 @@
 
 
 ## Login
-![login page](/screenshots/login.jpg)
+![login page](/screenshots/login.JPG)
 
 ## Register
 ![Register page](/screenshots/register.jpg)
