@@ -4,13 +4,13 @@
 
 
 ## Login
-![login page](./screenshot/login.jpg)
+![login page](./screenshots/login.jpg)
 
 ## Register
-![Register page](./screenshot/register.jpg)
+![Register page](./screenshots/register.jpg)
 
 ## Welcome
-![Welcome page](./screenshot/welcome.jpg)
+![Welcome page](./screenshots/welcome.jpg)
 
 ## Chat
-![Chat page](./screenshot/chat.jpg)
+![Chat page](./screenshots/chat.jpg)
