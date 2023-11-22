@@ -7,10 +7,10 @@
 ![login page](/screenshots/login.JPG)
 
 ## Register
-![Register page](/screenshots/register.jpg)
+![Register page](/screenshots/register.JPG)
 
 ## Welcome
-![Welcome page](/screenshots/welcome.jpg)
+![Welcome page](/screenshots/welcome.JPG)
 
 ## Chat
-![Chat page](/screenshots/chat.jpg)
+![Chat page](/screenshots/chat.JPG)
